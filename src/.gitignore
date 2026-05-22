@@ -1,0 +1,15 @@
+# Ignorar carpetas de compilación de Java (archivos binarios que se generan solos)
+bin/
+out/
+target/
+
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de configuración de IntelliJ (opcional, pero recomendado)
+.idea/
+*.iml
+
+# Ignorar carpetas de configuración de VS Code (opcional)
+.vscode/
